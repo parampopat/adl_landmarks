@@ -1,1 +1,1 @@
-# adl_landmarks
+# applied-deep-learning
