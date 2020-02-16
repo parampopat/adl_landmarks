@@ -1,7 +1,7 @@
 CLASSES = {
   0: 'Alma Mater',
-  1: 'The Thinker',
-  2: 'Butler Library',
+  1: 'Butler Library',
+  2: 'The Thinker',
 };
 
 const MODEL_PATH = document.URL + 'model.json';
